@@ -640,4 +640,4 @@ private fun TakeAPicture() {
 
 - [**码云地址**](https://gitee.com/qu-wenbin/camera-x-demo)
 
-- [**Github地址**](https://github.com/Ou520/CameraX-Demo)
+- [**Github地址**](https://github.com/Ou520/CameraX_Demo)
